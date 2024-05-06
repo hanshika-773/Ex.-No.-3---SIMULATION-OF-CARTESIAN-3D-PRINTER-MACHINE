@@ -48,13 +48,15 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/hanshika-773/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153576501/bcd6b524-81d7-498e-970f-93d09688ac40)
+![image](https://github.com/hanshika-773/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153576501/a17d33f5-bbde-4a45-baf0-49330a297e1b)
 
-![image](https://github.com/hanshika-773/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153576501/4161f322-63d3-4181-8d47-ff3fcaba533c)
+![image](https://github.com/hanshika-773/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153576501/fd328f1c-fc7f-4c24-947d-23a4a1bc949a)
 
-![image](https://github.com/hanshika-773/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153576501/fa479941-8a9e-4d6b-9b74-7b4b8ffa1494)
+![image](https://github.com/hanshika-773/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153576501/4a86d6f0-15aa-4374-9587-dbf4c215b513)
 
-![image](https://github.com/hanshika-773/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153576501/fd6719d7-79fa-463f-b5d6-4564c8a2282d)
+![image](https://github.com/hanshika-773/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153576501/2a05fe61-b971-4ee6-bcaa-514f44bbe9c6)
+
+![image](https://github.com/hanshika-773/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153576501/017479f9-8a05-4b4f-90a3-61801c21c3ec)
 
 
 ### Name: Hanshika Varthini R
